@@ -12,6 +12,7 @@ django-forms-bootstrap = "*"
 dj-database-url = "*"
 "psycopg2" = "*"
 whitenoise = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.6"
