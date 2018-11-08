@@ -8,6 +8,7 @@ name = "pypi"
 [packages]
 django = "==1.11.15"
 pillow = "*"
+django-forms-bootstrap = "*"
 
 [requires]
 python_version = "3.6"
